@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Form, useFetcher, useLoaderData } from "react-router-dom";
 
 export default function Contact() {
